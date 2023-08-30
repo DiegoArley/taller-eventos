@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       alert("Hola!");
     });
   
-    saludarDiv.addEventListener("click", function () {
+    saludarDiv.addEventListener("dblclick", function () {
       alert("Hola! Soy el div");
     });
   });
